@@ -19,7 +19,7 @@ h1 {
     line-height: 1.1;
     font-family: 'Noto Serif Display', serif;
     font-weight: 300;
-    margin: 1.5em 0 .45em;
+    margin: 1em 0 .45em;
     opacity: 1;
 }
 
@@ -52,7 +52,7 @@ p {
 @media screen and (max-width: 628px) {
     h1 {
         font-size: 4rem;
-        margin: 1.25em 0 .45em;
+        margin: .9em 0 .45em;
     }
     
     p {
