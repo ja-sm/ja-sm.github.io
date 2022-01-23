@@ -52,7 +52,7 @@ p {
 @media screen and (max-width: 628px) {
     h1 {
         font-size: 4rem;
-        margin: .9em 0 .45em;
+        margin: .625em 0 .45em;
     }
     
     p {
